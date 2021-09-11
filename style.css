@@ -7,7 +7,7 @@
 
 body{
     font-family: 'Montserrat', sans-serif;
-    margin: 0rem 7rem;
+    margin: 0rem auto;
 }
 
 .hero-img{
@@ -59,6 +59,7 @@ hr{
     padding: 1rem;
     border-bottom-left-radius: 2rem;
     border-bottom-right-radius: 2rem;
+    margin: 0rem auto;
 }
 
 .navigation .nav-brand{
@@ -96,7 +97,7 @@ hr{
 
 .section{
     padding: 2rem;
-    margin: 2rem 0;
+    margin: 2rem auto;
     border-radius: 1rem;
     text-align: center;
 }
@@ -118,6 +119,7 @@ hr{
     color: white;
     border-top-right-radius: 2rem;
     border-top-left-radius: 2rem;
+    margin: 0rem auto;
 }
 
 .footer .link{
