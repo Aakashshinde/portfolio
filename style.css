@@ -10,6 +10,10 @@ body{
     margin: 0rem 7rem;
 }
 
+.hero-img{
+    border-radius: 20rem;
+}
+
 /** container **/
 .container{
     padding: 0rem 1rem;
